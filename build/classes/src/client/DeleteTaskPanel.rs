@@ -1,0 +1,3 @@
+client.DeleteTaskPanel$TaskListCellRenderer
+client.DeleteTaskPanel
+client.DeleteTaskPanel$Task
